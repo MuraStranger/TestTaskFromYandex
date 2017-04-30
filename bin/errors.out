@@ -1,0 +1,6 @@
+FileHelpers - Errors Saved at 30 апреля 2017 г. 23:31:30
+LineNumber | LineString |ErrorDescription
+4|3	2017-01-11T11:09:11	32.35|Line: 4 Column: 22. Delimiter '	' not found after field 'Amount' (the record has less fields, the delimiter is wrong or the next field must be marked as optional).
+17|16	2017-jgyuT11:9:11	642.23	7|In the field 'Dt': Error Converting '2017-jgyuT11:9:11' to type: 'DateTime'.  There are less chars in the Input String than in the Format string: 'yyyy-MM-ddTHH:mm:ss'
+18|17	2016-13-05T11:09:11	342.3	2|In the field 'Dt': Error Converting '2016-13-05T11:09:11' to type: 'DateTime'.  Using the format: 'yyyy-MM-ddTHH:mm:ss'
+19|18	2016-13-15T11:09:11	142.3	1|In the field 'Dt': Error Converting '2016-13-15T11:09:11' to type: 'DateTime'.  Using the format: 'yyyy-MM-ddTHH:mm:ss'
